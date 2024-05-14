@@ -1,0 +1,10 @@
+Model,Dataset,F1,Precision,Recall,Acc
+gpt3.5,trofi,0.59,0.57,0.61,0.58
+gpt3.5,vua_pos,0.56,0.53,0.6,0.54
+gpt3.5,vua_verb,0.59,0.57,0.61,0.57
+llama2-7b,trofi,0.61,0.55,0.7,0.56
+llama2-7b,vua_pos,0.55,0.52,0.58,0.52
+llama2-7b,vua_verb,0.6,0.57,0.62,0.58
+llama2-7b_tuned,trofi,0.67,0.5,1.0,0.5
+llama2-7b_tuned,vua_pos,0.58,0.59,0.57,0.59
+llama2-7b_tuned,vua_verb,0.65,0.64,0.67,0.65

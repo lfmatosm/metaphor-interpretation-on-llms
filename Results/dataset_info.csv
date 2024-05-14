@@ -1,0 +1,6 @@
+Dataset,Train,Test,Dev,Length
+trofi,3838,1096,548,28
+vua_verb,2294,656,328,27
+vua_pos,3506,1002,502,29
+metaphor_list,132,244,120,7
+lcc_en_subset,1206,345,172,25

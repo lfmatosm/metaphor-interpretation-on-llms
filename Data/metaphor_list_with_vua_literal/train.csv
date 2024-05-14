@@ -1,0 +1,133 @@
+;Source Domain;Target Domain;Title;Metaphor;Example
+762;possessions;hope;Hope Is A Benefical Possession;Being Hopeful/hopeless Is Having/not Having Hope;I've lost all hope of a solution.
+770;possessions;hope;Hope Is A Benefical Possession;Strength Of Hope Is Strength Of An Object;Her hopes were crushed.
+763;possessions;hope;Hope Is A Benefical Possession;Being Hopeful/hopeless Is Having/not Having Hope;He recovered his hopes for a peace on earth.
+497;motion;emotion;Emotion Is Motion;Emotion Is Motion;I was moved by the poem.
+499;motion;emotion;Emotion Is Motion;Emotion Is Motion;You send me.
+498;motion;emotion;Emotion Is Motion;Emotion Is Motion;I went into transports of joy.
+378;scale;comparison;Comparison Of Properties Is Comparison Of Physical Properties;Comparison Of Properties Is Comparison Of Physical Properties;You have to weigh the pros and cons.
+383;scale;comparison;Comparison Of Properties Is Comparison Of Physical Properties;Comparison Of Properties Is Comparison Of Physical Properties;TV viewership is higher during prime time than daytime
+379;scale;comparison;Comparison Of Properties Is Comparison Of Physical Properties;Comparison Of Properties Is Comparison Of Physical Properties;The scale just tipped in favor of my voting yes.
+1285;holding;possession;Possessing Is Holding;Trying To Get Is Trying To Grab;He's been trying to get his hands on the property for years.
+1291;holding;possession;Possessing Is Holding;Retaining A Possession Is Retaining A Held Object;Even in backruptcy he managed to hang onto his car collection.
+1289;holding;possession;Possessing Is Holding;Possessing Is Holding;He keeps a tight grip on his valuable stocks.
+72;motion;action;Action Is Self-propelled Motion;Easy Action Is Easy Motion;It is smooth sailing from here on in in the application process.
+77;motion;action;Action Is Self-propelled Motion;Manner Of Action Is Manner Of Motion;We slogged through the application process.
+76;motion;action;Action Is Self-propelled Motion;Action Is Self-propelled Motion;He successfully navigated her way through the contract negotiations.
+1660;changer;time;Time Is A Changer;Time Is A Changer;Time heals all wounds.
+1663;changer;time;Time Is A Changer;Time Is A Changer;Time had not been kind to him.
+1662;changer;time;Time Is A Changer;Time Is A Changer;Time had made her look old.
+1071;animal;lust;Lustful Person Is An Animal;Lustful Person Is An Animal;He's a real wolf.
+1073;animal;lust;Lustful Person Is An Animal;Lustful Person Is An Animal;He looks like he's ready to pounce.
+1072;animal;lust;Lustful Person Is An Animal;Lustful Person Is An Animal;A tigress in bed.
+1011;path;logic;Logical Relations Are Causal Relations;Logical Arguments Are Paths To Solutions;Follow your reasoning where it takes you.
+1014;path;logic;Logical Relations Are Causal Relations;Logical Arguments Are Paths To Solutions;Does your reasoning give you the answer you wanted?
+1013;path;logic;Logical Relations Are Causal Relations;Logical Arguments Are Paths To Solutions;This argument yields the following conclusions.
+1702;well-being;wealth;Well-being Is Wealth;Well-being Is Wealth;I am the richest man in the world: I have the love of my family.
+1705;well-being;wealth;Well-being Is Wealth;Well-being Is Wealth;The cynics of this world lead impoverished lives.
+1704;well-being;wealth;Well-being Is Wealth;Well-being Is Wealth;It is a poor man who has no love of himself.
+1303;tangle;problem;Problem Is A Tangle;Problem Is A Tangle;A knotty problem.
+1306;tangle;problem;Problem Is A Tangle;Solving Is Untangling;He unraveled the problem.
+1305;tangle;problem;Problem Is A Tangle;Solving Is Untangling;He untangled the problem.
+578;up;euphoria;Euphoric States Are Up;Euphoric States Are Up;He's really high.
+579;up;euphoria;Euphoric States Are Up;Euphoric States Are Up;She's coming down
+405;adherence;compliance;Complience Is Adherence;Complience Is Adherence;He stuck by his word.
+406;adherence;compliance;Complience Is Adherence;Complience Is Adherence;He adhered to his contract.
+1573;competition;debate;Theoretical Debate Is Competition;Theoretical Debate Is Competition;The adherents of that theory will soon be beaten out by new theorists.
+1579;competition;debate;Theoretical Debate Is Competition;Theoretical Debate Is Competition;A fierce battle is shaping up in modern philosophy.
+1577;competition;debate;Theoretical Debate Is Competition;Theoretical Debate Is Competition;Evolution is the leading biological theory
+1162;cleanliness;morality;Morality Is Cleanliness;Morality Is Cleanliness;His reputation is besmirched.
+1165;cleanliness;morality;Morality Is Cleanliness;Morality Is Cleanliness;The magazine got the dirt about him.
+1163;cleanliness;morality;Morality Is Cleanliness;Morality Is Cleanliness;She doesn't want to get her hands dirty.
+1048;part-whole;love;Love Is A Unity (of Two Complementary Parts);EMOTIONAL INTIMACY IS PHYSICAL CLOSENESS;We were made for each other.
+1050;part-whole;love;Love Is A Unity (of Two Complementary Parts);EMOTIONAL INTIMACY IS PHYSICAL CLOSENESS;She is my better half.
+1049;part-whole;love;Love Is A Unity (of Two Complementary Parts);EMOTIONAL INTIMACY IS PHYSICAL CLOSENESS;We are one.
+20;container;problem solving;A Problem Is A Locked Container For Its Solution;Solving A Problem Involves Opening An Object;The detective set out to crack the case.
+25;container;problem solving;A Problem Is A Locked Container For Its Solution;Discovered Solution Is Removed From Container;The truth finally came out.
+22;container;problem solving;A Problem Is A Locked Container For Its Solution;Means To Solving Is Means To Opening;He finally found the key to the problem.
+1238;path;opportunities;Opportunities Are Open Paths;Opportunities Are Open Paths;His job offer opened up new paths for me.
+1240;path;opportunities;Opportunities Are Open Paths;Opportunities Are Open Paths;Opportunity is an open door.
+1239;path;opportunities;Opportunities Are Open Paths;Opportunities Are Open Paths;I can go whichever I want with this project.
+1606;beings;theories;Theories Are Beings With Life Cycles;Theories Are Beings With Life Cycles;The theory died out.
+1617;beings;theories;Theories Are Beings With Life Cycles;Theories Are Plants (w.r.t. Life Cycle);Many theories sprang up out of the fertile soil of his discoveries.
+1609;beings;theories;Theories Are Beings With Life Cycles;Theories Are People (w.r.t Life Cycle);A new theory was given birth.
+1328;depth;importance;Properties Are Physical Properties;Importance Is Depth;There's a deeper issue here.
+1330;depth;importance;Properties Are Physical Properties;Importance Is Depth;Let's ignore all the details on the surface.
+1329;depth;importance;Properties Are Physical Properties;Importance Is Depth;That's a profound problem.
+468;adversary;difficult subjects;Difficult Subjects Are Adversaries;Difficult Subjects Are Adversaries;I thought it was a tame course, but it turned into a bear.
+473;adversary;difficult subjects;Difficult Subjects Are Adversaries;Understanding/learning Is Gaining Physical Control Over The Material;He successfully conquered the material.
+472;adversary;difficult subjects;Difficult Subjects Are Adversaries;Understanding/learning Is Gaining Physical Control Over The Material;She wasn't able to tackle all the material, so he stayed behind.
+637;cold;fear;Fear Is Cold;Fear Is Cold;He had cold feet
+639;cold;fear;Fear Is Cold;Fear Is Cold;A cold stab of fear went through me
+638;cold;fear;Fear Is Cold;Fear Is Cold;Her blood ran cold
+1064;heat;lust;Lust Is Heat;INTENSE EMOTIONS ARE HEAT;I'm hot to trot.
+1066;heat;lust;Lust Is Heat;Lack Of Lust Is Coldness;She was frigid.
+1065;heat;lust;Lust Is Heat;INTENSE EMOTIONS ARE HEAT;I'm burning with desire.
+500;closeness;intimacy;Emotional Intimacy Is Physical Closeness;Emotional Intimacy Is Physical Closeness;I feel close to him.
+513;closeness;intimacy;Emotional Intimacy Is Physical Closeness;Change Toward Emotional Intimacy Is Movement Toward Physical Closeness;We're drifting apart.
+503;closeness;intimacy;Emotional Intimacy Is Physical Closeness;Emotional Intimacy Is Physical Closeness;He keeps everyone at arms length.
+225;beings;beliefs;Beliefs Are Beings With A Life Cycle;Beliefs Are Beings With A Life Cycle;The belief lives on.
+227;beings;beliefs;Beliefs Are Beings With A Life Cycle;Beliefs Are Beings With A Life Cycle;That belief was born of the early philosophers.
+226;beings;beliefs;Beliefs Are Beings With A Life Cycle;Beliefs Are Beings With A Life Cycle;That belief died out years ago.
+438;disease;belief;Dangerous Beliefs Are Contagious Diseases;Dangerous Beliefs Are Contagious Diseases;the contagion of democratic ideas
+440;disease;belief;Dangerous Beliefs Are Contagious Diseases;Believers Are Infected;They quarantined the Japanese.
+439;disease;belief;Dangerous Beliefs Are Contagious Diseases;Believers Are Infected;The children were infected with ideas about socialism.
+420;up;control;Control Is Up;Control Is Up;He is under my power.
+422;up;control;Control Is Up;Control Is Up;I have it all under control.
+421;up;control;Control Is Up;Control Is Up;I'm on top of the situation.
+1680;money;time;Time Is Money;Time Is Money;She spends her time unwisely.
+1682;money;time;Time Is Money;Time Is Money;Time is money
+1681;money;time;Time Is Money;Time Is Money;The diversion should buy him some time.
+1282;substance;personality;Personality Is Material;Personality Is Material;This will test his mettle.
+1284;substance;personality;Personality Is Material;Personality Is Material;She is made of tougher stuff.
+1283;substance;personality;Personality Is Material;Personality Is Material;He has a heart of gold.
+351;whole;coherence;Coherent Is Whole;Coherent Is Whole;His thoughts are scattered.
+354;whole;coherence;Coherent Is Whole;Coherent Is Whole;I'm missing a piece of the puzzle.
+352;whole;coherence;Coherent Is Whole;Coherent Is Whole;The theory is all over the place.
+713;injury;harm;Harm Is Physical Injury;Restitution Is Healing;She recovered from the wound to her psyche, but scars remained.
+716;injury;harm;Harm Is Physical Injury;Restitution Is Healing;My stock portfolio is very healthy.
+715;injury;harm;Harm Is Physical Injury;Restitution Is Healing;Americans can expect painful cutbacks with the recession.
+97;motion;progress;Action Is Self-propelled Motion;Progress Is Forward Movement;Let's keep moving forward on this experiment.
+99;motion;progress;Action Is Self-propelled Motion;Negative Progress Is Backward Movement;We need to backtrack on this problem.
+98;motion;progress;Action Is Self-propelled Motion;Progress Is Forward Motion;Things are at a standstill.
+1629;part-whole;theories;Theories Are Constructed Objects;IDEAS ARE CONSTRUCTRED OBJECTS;They assembled a theory.
+1639;part-whole;theories;Theories Are Constructed Objects;IDEAS ARE CONSTRUCTRED OBJECTS;The theory was torn down brick by brick by its opponants.
+1631;part-whole;theories;Theories Are Constructed Objects;IDEAS ARE CONSTRUCTRED OBJECTS;One piece of the theory doesn't fit.
+996;line;light;Light Is A Line;Light Is A Line;rays of light
+1000;line;light;Light Is A Line;Light Is A Line;Where is that light coming from?
+999;line;light;Light Is A Line;Light Is A Line;Direct more light over here.
+1420;body;society;Society Is A Body;Society Is A Body;Our society is making great strides.
+1428;body;society;Society Is A Body;Society Is A Body;China finally stood up and was noticed.
+1425;body;society;Society Is A Body;Society Is A Body;nurse our nation back to health
+278;commodities;beliefs;Beliefs Are Possessions;Believing Is Owning Goods;She took inventory of her beliefs.
+281;commodities;beliefs;Beliefs Are Possessions;Arguing For A Belief Is Trying To Sell It;I almost bought his line.
+279;commodities;beliefs;Beliefs Are Possessions;No Longer Believing Is Selling Out;He sold out his dearest beliefs.
+1166;purity;morality;Morality Is Purity;Morality Is Purity;He is as pure as the driven snow.
+1167;purity;morality;Morality Is Purity;Morality Is Purity;She is of pure heart.
+1518;projectiles;ideas;The Conduit Metaphor;Ideas Are Projectiles, Which The Sender Conveys In Some Manner;He launched the discussion.
+1520;projectiles;ideas;The Conduit Metaphor;Ideas Are Projectiles, Which The Sender Conveys In Some Manner;He hurled his criticisms at me, one after another.
+1519;projectiles;ideas;The Conduit Metaphor;Ideas Are Projectiles, Which The Sender Conveys In Some Manner;He heaved the whole issue onto me.
+491;injury;humor;Effects Of Humor Are Injuries;Effects Of Humor Are Injuries;The comedian knocked them over.
+495;injury;humor;Effects Of Humor Are Injuries;Effects Of Humor Are Injuries;She nearly died of laughter.
+494;injury;humor;Effects Of Humor Are Injuries;Effects Of Humor Are Injuries;That joke really slayed me.
+1321;size;importance;Properties Are Physical Properties;Importance Is Size;That's a big discovery.
+1327;size;importance;Properties Are Physical Properties;Importance Is Size;He'll never amount to anything.
+1322;size;importance;Properties Are Physical Properties;Importance Is Size;He concentrates on little details.
+1052;magic;love;Love Is Magic;Love Is Magic;The magic is gone.
+1056;magic;love;Love Is Magic;Love Is Magic;She charmed him.
+1053;magic;love;Love Is Magic;Love Is Magic;She is bewitching.
+0;not metaphoric;people;No Metaphor;No Metaphor;Others are not so well informed.
+1;not metaphoric;accidents;No Metaphor;No Metaphor;And yet there are accidents.
+2;not metaphoric;buildings;No Metaphor;No Metaphor;The friend found one at a garage.
+3;not metaphoric;months ;No Metaphor;No Metaphor;Mulching is a pleasant activity for October.
+4;not metaphoric;badges;No Metaphor;No Metaphor;Name badges are worn by staff.
+5;not metaphoric;stealing;No Metaphor;No Metaphor;Had it been stolen?
+6;not metaphoric;shoulders;No Metaphor;No Metaphor;He shrugged his narrow shoulders.
+7;not metaphoric;snorting;No Metaphor;No Metaphor;Madame snorted again.
+8;not metaphoric;risk;No Metaphor;No Metaphor;Even if you do not intend to be disloyal there is always the risk that you might be careless.
+9;not metaphoric;seeing;No Metaphor;No Metaphor;I want you to promise me here and now that you will not see Gary Oliver again.
+10;not metaphoric;buying;No Metaphor;No Metaphor;He once bought me a Louis Vuitton handbag.
+11;not metaphoric;houses;No Metaphor;No Metaphor;Ours is actually a new house.
+12;not metaphoric;artwork;No Metaphor;No Metaphor;That's not my artwork on there, that's my little niece's artwork.
+13;not metaphoric;teaching ;No Metaphor;No Metaphor;People are coming to do some Christian teaching for us.
+14;not metaphoric;washing;No Metaphor;No Metaphor;But he he said,  don't wash it I wanna wear it.

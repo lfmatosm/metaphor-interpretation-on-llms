@@ -1,0 +1,33 @@
+GPT3.txt
+Data/LCC_Metaphor_Dataset.small/*
+wandb/*
+Data/crawled_metaphors_all(private).csv
+Data/LCC_Metaphor_Dataset.full/*
+Data/metaphors_in_plm/lcc**
+Data/metaphors_in_plm/multi**
+Data/metaphors_in_plm/source**
+Data/lcc**
+settings.yaml
+credentials.json
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+test/
+validation/
+
+# TeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+acl2023.log
+acl2023.out
+acl2023.synctex.gz
+
+# draw.io
+*.drawio.bkp
+
+.venv
