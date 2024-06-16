@@ -2,6 +2,9 @@
 Code and partial data for "A big ant or a small elephant: metaphor interpretation on large language
 models".
 
+## Assets
+Paper can be found [here](./paper.pdf), while presentation can be found [here](./presentation.pdf).
+
 ## Environment
 
 - [`python == 3.10.14`](https://www.python.org/downloads/)
